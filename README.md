@@ -6,11 +6,14 @@ Download link: https://www.kaggle.com/adityajn105/flickr8k
 Environment: Kaggle
 
 Libraries
-numpy
-matplotlib
-keras
-tensorflow
+numpy,
+matplotlib,
+keras,
+tensorflow,
 nltk
+
+
+
 Neural Network
-VGG16 Network
+VGG16 Network,
 CNN-LSTM Network
